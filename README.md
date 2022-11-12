@@ -1,4 +1,5 @@
-                    ![coding gif](https://user-images.githubusercontent.com/84428101/201471256-165d2d7d-3bb9-4c80-ba0e-93a115387204.gif)
+<img align="center" src="https://user-images.githubusercontent.com/84428101/201471319-d7c6f464-b2fa-4b4f-8967-1462a83b270c.gif" height="100"></img>                   
+
 
                                  
                                  
