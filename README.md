@@ -18,7 +18,7 @@ Tools and Languages I use:
 <a href="https://www.instagram.com/amritanshu20002000" target="balnk"><img align="center" src="https://user-images.githubusercontent.com/84428101/201470434-75000bd4-98a4-4992-a0ac-fbc4b61b56ae.png" height="50"></img></a>
 <a href="https://www.linkedin.com/in/amritanshu-ranjan-7a5a0ab0" target="balnk"><img align="center" src="https://user-images.githubusercontent.com/84428101/201470547-0b7f675f-3926-40f2-9378-6e49a4f361aa.png" height="50"></img></a>
 <p></p>
-[https://github-readme-stats.vercel.app/api?username=amrit2000-super)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrit2000-super&count_private=true)
 
 
 
