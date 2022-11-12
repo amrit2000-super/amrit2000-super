@@ -1,10 +1,6 @@
-<img align="center" src="https://user-images.githubusercontent.com/84428101/201471319-d7c6f464-b2fa-4b4f-8967-1462a83b270c.gif" height="500"></img>                   
+<p> Hi,<img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></img>I am Amritanshu Ranjan></p>
 
-
-                                 
-                                 
-                                 👋                 
-                           Hi,I am Amritanshu Ranjan
+<img align="center" src="https://user-images.githubusercontent.com/84428101/201471319-d7c6f464-b2fa-4b4f-8967-1462a83b270c.gif" height="500"></img>
 
 Tools and Languages I use:
 <p></p>
