@@ -13,7 +13,7 @@
 <h1>Connect With Me:</h1>
 <a href="https://www.instagram.com/amritanshu20002000" target="balnk"><img align="center" src="https://user-images.githubusercontent.com/84428101/201470434-75000bd4-98a4-4992-a0ac-fbc4b61b56ae.png" height="50"></img></a>
 <a href="https://www.linkedin.com/in/amritanshu-ranjan-7a5a0ab0" target="balnk"><img align="center" src="https://user-images.githubusercontent.com/84428101/201470547-0b7f675f-3926-40f2-9378-6e49a4f361aa.png" height="50"></img></a>
-<p></p>
+<h1></h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit2000-super&count_private=true&show_icons=true&theme=gruvbox"></img>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit2000-super&show_icons=true&theme=tokyonight&locale=en&&langs_count=10" alt="amrit2000_super" /></p>
 
