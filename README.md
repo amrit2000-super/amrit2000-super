@@ -19,6 +19,8 @@ Tools and Languages I use:
 <a href="https://www.linkedin.com/in/amritanshu-ranjan-7a5a0ab0" target="balnk"><img align="center" src="https://user-images.githubusercontent.com/84428101/201470547-0b7f675f-3926-40f2-9378-6e49a4f361aa.png" height="50"></img></a>
 <p></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit2000-super&count_private=true&show_icons=true&theme=gruvbox"></img>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit2000-super&show_icons=true&theme=tokyonight&locale=en&&langs_count=6" alt="amrit2000_super" /></p>
+
 
 
 
